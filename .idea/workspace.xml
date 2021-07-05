@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b95c7be-2137-494b-b5c6-0f3fd8fc2948" name="Default Changelist" comment="production file" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="true" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/santigarcor/laratrust" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/vendor/laravel/sail" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/kkszymanowski/traitor" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/brian2694/laravel-toastr" />
+      <path value="$PROJECT_DIR$/vendor/intervention/image" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1mLMIyK0A0FYgNt4CtGabNFJzIP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/admin/dashboard" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\GIT\MyCourier\app\resources\views\admin\dashboard" />
+      <recent name="G:\GIT\MyCourier\app\resources" />
+      <recent name="G:\GIT\MyCourier\app\resources\css" />
+      <recent name="G:\GIT\MyCourier\app\resources\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\GIT\MyCourier\app\app" />
+      <recent name="G:\GIT\MyCourier\app\app\Providers" />
+      <recent name="G:\GIT\MyCourier\app\resources\views\employee\dashboard" />
+      <recent name="G:\GIT\MyCourier\app\public\images\icon" />
+      <recent name="G:\GIT\MyCourier\app\public\css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b95c7be-2137-494b-b5c6-0f3fd8fc2948" name="Default Changelist" comment="" />
+      <created>1609268350501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609268350501</updated>
+      <workItem from="1609268356791" duration="1830000" />
+      <workItem from="1609303798707" duration="95000" />
+      <workItem from="1609342846017" duration="5000" />
+      <workItem from="1609343792261" duration="908000" />
+      <workItem from="1609350130813" duration="1112000" />
+      <workItem from="1609351289510" duration="7257000" />
+      <workItem from="1609386275446" duration="73000" />
+      <workItem from="1609395223058" duration="76000" />
+      <workItem from="1609581244195" duration="2542000" />
+      <workItem from="1609692574892" duration="12534000" />
+      <workItem from="1609777544927" duration="9927000" />
+      <workItem from="1609861740857" duration="13634000" />
+      <workItem from="1609950793129" duration="882000" />
+      <workItem from="1609953645267" duration="12714000" />
+      <workItem from="1610076221239" duration="3972000" />
+      <workItem from="1610162210569" duration="6855000" />
+      <workItem from="1610378578371" duration="2411000" />
+      <workItem from="1610383661307" duration="5898000" />
+      <workItem from="1610469670628" duration="8144000" />
+      <workItem from="1610554637175" duration="4526000" />
+      <workItem from="1610560822567" duration="3799000" />
+      <workItem from="1610983902248" duration="4915000" />
+      <workItem from="1611203325565" duration="398000" />
+      <workItem from="1611766441920" duration="838000" />
+      <workItem from="1611769461110" duration="16000" />
+      <workItem from="1612612466662" duration="9901000" />
+      <workItem from="1613572518683" duration="11367000" />
+      <workItem from="1614404525132" duration="3009000" />
+      <workItem from="1614412153596" duration="839000" />
+      <workItem from="1614440134553" duration="5042000" />
+    </task>
+    <task id="LOCAL-00020" summary="FIX: Update route in Customer">
+      <created>1610079418034</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1610079418034</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Add: Create Order Page and Route">
+      <created>1610080197340</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1610080197340</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Add: Create Order Page">
+      <created>1610164454739</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1610164454739</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Add: Create Order Page migration">
+      <created>1610164467990</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1610164467990</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Update: Create Order Page migration">
+      <created>1610164572366</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1610164572366</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Fix: Create Order Page migration">
+      <created>1610165398719</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1610165398719</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Add: Product Model">
+      <created>1610165427222</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1610165427222</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Add: GlobalService for share resource">
+      <created>1610168226319</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1610168226319</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Change: GlobalService for share resource">
+      <created>1610170867986</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1610170867986</updated>
+    </task>
+    <task id="LOCAL-00029" summary="ADD: Product Table">
+      <created>1611203395911</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1611203395911</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Update: Admin Layout">
+      <created>1611203454068</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1611203454068</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Update: Employee Layout">
+      <created>1611203471353</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1611203471353</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Update: Employee Profile">
+      <created>1611203503655</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1611203503655</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Update: Admin Profile">
+      <created>1611203520075</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1611203520075</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Update: GlobalService Class">
+      <created>1611203552698</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1611203552698</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Update: Order Viewpage">
+      <created>1611203574149</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1611203574149</updated>
+    </task>
+    <task id="LOCAL-00036" summary="FIx: Product Class">
+      <created>1611203590652</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1611203590652</updated>
+    </task>
+    <task id="LOCAL-00037" summary="FIx: Register Viewpage">
+      <created>1611203620903</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1611203620903</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Update: User Route View">
+      <created>1611203643279</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1611203643279</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Update: User Controller">
+      <created>1611203661168</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1611203661168</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Add: Order Route">
+      <created>1611203676916</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1611203676916</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Update: Configuration File">
+      <created>1611203698271</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1611203698271</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Order Migrations Added">
+      <created>1611766623392</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1611766623392</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Add: Order Model">
+      <created>1611766642041</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1611766642041</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Add: Track blade page">
+      <created>1611766657813</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1611766657813</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Update: Project file">
+      <created>1611766677387</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1611766677387</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Add: Image Intervention Package Added">
+      <created>1612613521175</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1612613521175</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Migration Added">
+      <created>1612624694292</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1612624694292</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Image added to base">
+      <created>1612624737022</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1612624737022</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Image added to user profile">
+      <created>1612624754332</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1612624754332</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Image added to employee profile">
+      <created>1612624768081</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1612624768089</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Image added to Admin profile">
+      <created>1612624778916</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1612624778916</updated>
+    </task>
+    <task id="LOCAL-00052" summary="update: Order View">
+      <created>1613584272100</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1613584272108</updated>
+    </task>
+    <task id="LOCAL-00053" summary="update: Order Table">
+      <created>1613584278653</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1613584278653</updated>
+    </task>
+    <task id="LOCAL-00054" summary="update: set Height Weight Utility">
+      <created>1613584305498</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1613584305498</updated>
+    </task>
+    <task id="LOCAL-00055" summary="application file">
+      <created>1613584315890</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1613584315890</updated>
+    </task>
+    <task id="LOCAL-00056" summary="bug fixes">
+      <created>1613584375420</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1613584375420</updated>
+    </task>
+    <task id="LOCAL-00057" summary="get Units">
+      <created>1613588471751</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1613588471751</updated>
+    </task>
+    <task id="LOCAL-00058" summary="fix data">
+      <created>1613588478517</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1613588478517</updated>
+    </task>
+    <task id="LOCAL-00059" summary="inject controller method">
+      <created>1613588498476</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1613588498478</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Update Application Files">
+      <created>1613588563415</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1613588563415</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Application file">
+      <created>1614412309824</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1614412309824</updated>
+    </task>
+    <task id="LOCAL-00062" summary="HomePage Added">
+      <created>1614412338620</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1614412338620</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Icon Added">
+      <created>1614447194686</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1614447194687</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Update Login Page">
+      <created>1614447206393</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1614447206394</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Update Register Page">
+      <created>1614447218492</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1614447218492</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Update Welcom Page with real text">
+      <created>1614447238590</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1614447238591</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Update styles">
+      <created>1614447248779</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1614447248779</updated>
+    </task>
+    <task id="LOCAL-00068" summary="production file">
+      <created>1614447257362</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1614447257363</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="Add: Track blade page" />
+    <MESSAGE value="Update: Project file" />
+    <MESSAGE value="Add: Image Intervention Package Added" />
+    <MESSAGE value="Migration Added" />
+    <MESSAGE value="Image added to base" />
+    <MESSAGE value="Image added to user profile" />
+    <MESSAGE value="Image added to employee profile" />
+    <MESSAGE value="Image added to Admin profile" />
+    <MESSAGE value="update: Order View" />
+    <MESSAGE value="update: Order Table" />
+    <MESSAGE value="update: set Height Weight Utility" />
+    <MESSAGE value="application file" />
+    <MESSAGE value="bug fixes" />
+    <MESSAGE value="get Units" />
+    <MESSAGE value="fix data" />
+    <MESSAGE value="inject controller method" />
+    <MESSAGE value="Update Application Files" />
+    <MESSAGE value="Application file" />
+    <MESSAGE value="HomePage Added" />
+    <MESSAGE value="Icon Added" />
+    <MESSAGE value="Update Login Page" />
+    <MESSAGE value="Update Register Page" />
+    <MESSAGE value="Update Welcom Page with real text" />
+    <MESSAGE value="Update styles" />
+    <MESSAGE value="production file" />
+    <option name="LAST_COMMIT_MESSAGE" value="production file" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/user/dashboard/profile.blade.php</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Shared/GlobalService.php</url>
+          <line>9</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
